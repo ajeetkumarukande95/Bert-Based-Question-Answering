@@ -1,0 +1,4 @@
+# dependency added
+torch
+transformers
+gradio
