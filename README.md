@@ -1,7 +1,5 @@
 # Bert-Based-Question-Answering
 
-# Bert Based Question Answering
-
 This is a question answering application based on the BERT model. Users can input a context and a question, and the model will generate an answer based on the context.
 
 ## Usage
